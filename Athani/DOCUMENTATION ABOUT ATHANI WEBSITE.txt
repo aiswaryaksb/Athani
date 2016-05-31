@@ -1,0 +1,16 @@
+
+	Athani is a socia health welfare website 
+
+	PROPOSED FUNCTIONALITIES :
+
+	1:Quick donation
+	2:facilities for voluteering and Hosting events 
+	3:Sharing new stories about needy people
+	
+	ACHIEVED FUNCTIONALITIES :
+	
+	1: Donation 
+	2:login 
+	3:sharing 
+	4: get_involved 
+		all for MATERNAL HEALTH SECTION 
